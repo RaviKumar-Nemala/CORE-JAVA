@@ -1,0 +1,46 @@
+
+IN 1991 sun micro system had a requirement that to prepare new programming launguage 
+by using that new programming language they have todesign the software for simple electronics consumer simple electronics devices
+examples are cable tv switch boxes and remote contorllers these are their requirement3
+
+30 members Team  ->lead JAMES GOUSLING AND PATRIC NAUGHTAN
+these 30 members are assigned for Project: GREEN
+the nature of the programming language that sun microsystem want to prepare was
+
+1)simple programming language
+2)they want to see TIGHT CODED PROGRAMMING language\
+3)ARCHITECTURAL NUTRAL PROGRAMMING language
+
+1 i) under the simple programming language these are the features they want
+->less Execution Time
+->less memory consumption(if the application will take the less mmory then it takes less less time to exectue then efficeincy of the program is increases )
+->less power consumption(if the power consumption is less then less maintainence cost is there if the powerconsumption is more hten more powermaintainence cost is there)
+
+2)TIGHT-CODE LANGUAGE : if any language takes less no of instructions to implement the complex requirement then it is TIGHT CODED LANGUAGE
+eg:IN c implementing the stack it takes more lines of code then implementing the same stack in java
+->when tight coded language is there then no of instructions to execute the program is less then  size of the application is less//
+
+3)ARCHITECTURAL NUTRAL PROGRAMMING : 
+->IRRESPECTIVE OF THE architecture weather it may be android or ios or any other the architecture the software that we design has to be compatable with that  architecture that is called as the architecture neutral program language
+->Due to this feature that software has more demand in the market because it has execute in any hard ware system
+
+IN 1992 sun micro system has prepared their programming language
+->they want to gave the name for their programming language 
+->james gousling everyday saw the tree that tree name is OAK he suggested that name to that programming language but sun micro system rejected because of OAK is already existed programming launguage if we give the same name people might think this new programming language is the latest version of the previously existed language//
+**->programmers in the sun micro system have the branded cofee(powder) named as the JAVA so they had decided to give that name to their programming language
+BY USING this programming language  they have prepared as a product named as **(STAR SEVEV)**  STAR SEVEN is a remote controller
+->unfortunately the product(*seven) has failed means no one recognizes that product//
+->sun micro system has waited arount ( 1 and half year) (from 1993 to half of 1994)//
+->in MID 1994 WWW(world wide web) has available
+->in MID 1994 MUSAIK BROWSER has launched  (Developed by Mark Anderson ->undergraduate student)
+->then sun micro system developed their own BROWSER using JAVA PROGRAMMING language 
+From (1994  - 1995 ) they have prepared -> Hot JAVA Browser developed by patric Naughtan and janathan Paine in 1994 and 1995
+->this hot java browser became popular later they will decide that they want to realease this as a open source
+
+1996 JAN-23 the first version of the java program has launched as JDK1.0
+up to the JAVA1.0 - > JAVA6 i.e(JAVA1.0 ,  JAVA1.1 , upto JAVA1.5 and JAVA6)managed by sun micro system only
+FROM THE INITIAL OF JAVA6 to now latest versrion managed BY ORACLE COMPANY
+ 
+
+
+

@@ -1,0 +1,133 @@
+{
+     // Use IntelliSense to learn about possible attributes.
+     // Hover to view descriptions of existing attributes.
+     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+     "version": "0.2.0",
+     "configurations": [
+     
+          {
+               "type": "java",
+               "name": "Launch Multi_Level_Inheritance",
+               "request": "launch",
+               "mainClass": "Multi_Level_Inheritance",
+               "projectName": "INTRODUCTION_7177bcdd"
+          },
+          {
+               "type": "java",
+               "name": "Launch Current File",
+               "request": "launch",
+               "mainClass": "For_Name_method"
+          },
+          {
+               "type": "java",
+               "name": "Launch Current File",
+               "request": "launch",
+               "mainClass": "Static_Context_1"
+          },
+          {
+               "type": "java",
+               "name": "Launch ABSTRACT_CLASS",
+               "request": "launch",
+               "mainClass": "ABSTRACT_CLASS",
+               "projectName": "INTRODUCTION_7177bcdd"
+          },
+          {
+               "type": "java",
+               "name": "Launch Default_Constructor_Check",
+               "request": "launch",
+               "mainClass": "Default_Constructor_Check",
+               "projectName": "INTRODUCTION_7177bcdd"
+          },
+          {
+               "type": "java",
+               "name": "Launch Hash_Code_Ref_Val",
+               "request": "launch",
+               "mainClass": "Hash_Code_Ref_Val",
+               "projectName": "INTRODUCTION_7177bcdd"
+          },
+          {
+               "type": "java",
+               "name": "Launch Importing_Static_Classes",
+               "request": "launch",
+               "mainClass": "Importing_Static_Classes",
+               "projectName": "INTRODUCTION_7177bcdd"
+          },
+          {
+               "type": "java",
+               "name": "Launch Instance_Blocks_and_Priority",
+               "request": "launch",
+               "mainClass": "Instance_Blocks_and_Priority",
+               "projectName": "INTRODUCTION_7177bcdd"
+          },
+          {
+               "type": "java",
+               "name": "Launch Instance_Context_1",
+               "request": "launch",
+               "mainClass": "Instance_Context_1",
+               "projectName": "INTRODUCTION_7177bcdd"
+          },
+          {
+               "type": "java",
+               "name": "Launch MUTABLE_IMMUTABLE_CLASSFY",
+               "request": "launch",
+               "mainClass": "MUTABLE_IMMUTABLE_CLASSFY",
+               "projectName": "INTRODUCTION_7177bcdd"
+          },
+          {
+               "type": "java",
+               "name": "Launch OBJECT_CREATING_FLOW",
+               "request": "launch",
+               "mainClass": "OBJECT_CREATING_FLOW",
+               "projectName": "INTRODUCTION_7177bcdd"
+          },
+          {
+               "type": "java",
+               "name": "Launch Static_Context_1",
+               "request": "launch",
+               "mainClass": "Static_Context_1",
+               "projectName": "INTRODUCTION_7177bcdd"
+          },
+          {
+               "type": "java",
+               "name": "Launch Static_Variables",
+               "request": "launch",
+               "mainClass": "Static_Variables",
+               "projectName": "INTRODUCTION_7177bcdd"
+          },
+          {
+               "type": "java",
+               "name": "Launch Static_Variables_2",
+               "request": "launch",
+               "mainClass": "Static_Variables_2",
+               "projectName": "INTRODUCTION_7177bcdd"
+          },
+          {
+               "type": "java",
+               "name": "Launch Taking_User_Input",
+               "request": "launch",
+               "mainClass": "Taking_User_Input",
+               "projectName": "INTRODUCTION_7177bcdd"
+          },
+          {
+               "type": "java",
+               "name": "Launch Test",
+               "request": "launch",
+               "mainClass": "Test",
+               "projectName": "INTRODUCTION_7177bcdd"
+          },
+          {
+               "type": "java",
+               "name": "Launch This_Keyword_Constructor_Illustration",
+               "request": "launch",
+               "mainClass": "This_Keyword_Constructor_Illustration",
+               "projectName": "INTRODUCTION_7177bcdd"
+          },
+          {
+               "type": "java",
+               "name": "Launch var_args",
+               "request": "launch",
+               "mainClass": "var_args",
+               "projectName": "INTRODUCTION_7177bcdd"
+          }
+     ]
+}

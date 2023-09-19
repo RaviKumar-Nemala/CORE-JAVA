@@ -1,0 +1,115 @@
+
+1)c and C++ are static programming languages
+where as java is dynamic programming language
+STATIC programming language : if any programming lanugage provide the memory allocation of the primitive dta types at compile time then it is called as the static programming language
+c ,c ++ are examples
+DYNAMIC programming language : memory allocation for primitive data tyes during run time
+ex : JAVA , 
+in JAVA everything is in the form of the object  then primitive data types are created and stored in the form of the object .
+objects are created during the runtime
+which is why java is a dynamic programming language
+
+
+2 ) PREPROSSER IS REQUIRED IN C,C++ WHERE AS JAVA THER IS NO NEED OF TH PREPROSSER 
+
+JOB OF THE PREPROSSER:
+->it will recognize all the #include statements whiche are provided in  the program in c , c++ are
+->it will take all header names from #include<>statements
+->search all header files in the c , c++ softwares
+->if specified header file is not existed then generates eroror
+->if it is existed then it will load into the memory allocation
+STATIC LOADING :if the specified header files are loaded into the memory during the compilation time then it is called as STATIC LOADING 
+
+IN JAVA :
+all predefined libraries are in the form of  
+classes and interfaces and these are in the form of packages hence there is no need of the PREPROSSER
+in c, c++ we use #Include  in JAVA we use IMPORT statements
+eg 
+import java.io 
+import.java.util
+import.java.sql
+
+->WHEN WE COMPILE JAVA PROGRAM JOB OF THE COMPILER IS:
+->compile recognize all the import statements
+->take the specified package names from the import statements
+->check thse package is existed in JAVA softwares
+->if those packages are not existed prompt eroror
+->otherwise JUST ONLY CHECK WEATHER THESE PACKAGES existed OR NOT DO NOT LOAD INTO THE MEMORY
+
+WHEN WE execute JAVA APPLICATION:
+->when the predefine classes and interfaces are identified by JVM then JVM will load upto the respective classes and interfaes into the memory
+DYNAMIC LOADING : IN java application , the predefined library is loaded by JVM as per the requirement , this type of the loading predefined library loading is called
+as DYNAMIC LOADING
+
+
+DIFFERENCE BETWEEN PREPROSSER AND IMPORT
+->preprosser  statements existed in c , c++
+import statements are existed in javaVsCAndC
+
+->include statements are used to include header files 
+import statements are used to include classes and interfaces in the form of  the packages.
+ 
+->#include statements  are recognized by the preprosser 
+import statements are recognized by the JVM and COMPILER
+
+->include<> statements supports static loading 
+import statements are supports dynamic LOADING
+
+->by using include<> statements we are include only one header file at a time
+eg : #include<iostream.h>
+     #include<stdio.h>
+     #include<conio.h , math.h>INVALID
+
+by using import statements we are able to import more then one class or interface of the same package
+eg : import java.util
+     import java.util.io
+     import.java.sql
+     import.java.util.*
+
+
+
+3) C ,C ++ ARE PLATFORM DEPENDENT Pls where as JAVA IS A platform INDEPENDENT PROGRAMMING languages
+PLATFORM DEPENDENT PGS: if a PG must perform COMPILATION AND EXECUTION ON SAME OPERATION SYSTEM THEN THAT PG IS PLATFORM DEPENDENT PGS
+eg : compiling c code on windows and run that executabel file on the linux is not compatable becaz c , c++ are platform dependent PACKAGES
+
+JAVA IS PLATFORM INDEPENDENT LANGUAGE 
+this means it supports compilation and execution of the same code in two different operating system
+
+->in JAVA after compilation (.CLASS) files are generated if n number of classes are existed then n (.class) files generagted
+these(.CLASS) files are called as byte code these are neutral byte code 
+means this neutral byte code is run on the any other operating SYSTEM
+these .class files are not directly executable these are the intermediate code,
+JVM(java virtual mechine) is used to take this byte code and convert this byte code into executable code
+These JVM machines are different based on the architecture
+if compiling the java code in one OS and transferring this byte code into other OS is compatable because of the JVM
+**JAVA IS PLATFORM INDEPENDENT PROGRAMMING LANGUAGE BECAUSE OF THE JVM
+**BUT THE JVM(java virtual mechine) PLATFORM DEPENDENT TOOL
+**JAVA SOFTWARE IS PLATFORM DEPENDENT **
+**JAVA PROGRAMMING LANGUAGE IS INDEPENDENT**
+
+DIFFERENCE BEWEEN .exe and .class ?
+->.exe files are existed in c, c++  , .CLASS are existed in JAVA_VS_C_AND_C
+->.exe files are directly executable code 
+->.class files are provide byte code it is not directly executable code it is an intermediate code
+->.exe is platform dependent file (.CLASS) is platform independent file
+->.exe file is able to provide less security .class file is able to provide more security
+majory of the virsuse and malwares are available in the form of .exe files there is no software or malware existed in the form of .class files are
+
+WHY POINTER VARIABLES ARE NOT EXISTED IN JAVA ?
+->pointer variables required memory allocation at compile time , this means pointer variables required  static memory allocation ,
+but in JAVA is following dynamic memory allocation
+->pointers are supports STATIC PROGRAMMING LANGUAGE but JAVA IS DYNAMIC PROGRAMMING LANUGUGE
+->pointers are suitable in PLATFORM DEPENDENT Pls but JAVA IS PLAT FORM INDEPENDENT Pls
+because of the memory allocation is done in compile time the same memory has to provided in the runtime in STATIC MEMORY allocation 
+suppose if we use pointers in java pointers hold memory of the variables in the compile time then we execute the same byte code in the another os then those memory references which are holded by the pointers are not available in the other os because of the memory allocation is different
+
+->pointers does not provide the more security for the applications 
+but JAVA IS good secured programming language , it has to  provide the good security which is why pointers are not existed in the javaVsCAndC
+
+
+
+DESTRCTORS ARE EXISTED IN C++ , BUT DESTRUCTORS are not existed in JAVA
+->in java destruction of objects are done automatically with the help of the GARBAGE COLLECTOR
+->GARBAGE COLLECTOR is an implicit tool 
+->in c++ there is no garbage collector kind of the component which is why we need to 
+explictly destroy the objects , it is manditary to use destructors in c++ 
